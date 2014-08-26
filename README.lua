@@ -23,7 +23,7 @@ form:ShowDialog()
 
 
 
---Generate a form with Events
+--Generate a Form with Events
 luanet.load_assembly "System.Windows.Forms"
 luanet.load_assembly "System.Drawing"
 
