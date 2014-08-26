@@ -1,0 +1,12 @@
+C:\Users\Guillermo\Documents\Visual Studio 2013\Projects\LP-LuaCSharp\LP-LuaCSharp\bin\Debug\LP-LuaCSharp.exe.config
+C:\Users\Guillermo\Documents\Visual Studio 2013\Projects\LP-LuaCSharp\LP-LuaCSharp\bin\Debug\LP-LuaCSharp.exe
+C:\Users\Guillermo\Documents\Visual Studio 2013\Projects\LP-LuaCSharp\LP-LuaCSharp\bin\Debug\LP-LuaCSharp.pdb
+C:\Users\Guillermo\Documents\Visual Studio 2013\Projects\LP-LuaCSharp\LP-LuaCSharp\bin\Debug\lua51.dll
+C:\Users\Guillermo\Documents\Visual Studio 2013\Projects\LP-LuaCSharp\LP-LuaCSharp\bin\Debug\lua513net.dll
+C:\Users\Guillermo\Documents\Visual Studio 2013\Projects\LP-LuaCSharp\LP-LuaCSharp\bin\Debug\LuaInterface.dll
+C:\Users\Guillermo\Documents\Visual Studio 2013\Projects\LP-LuaCSharp\LP-LuaCSharp\obj\Debug\LP-LuaCSharp.csprojResolveAssemblyReference.cache
+C:\Users\Guillermo\Documents\Visual Studio 2013\Projects\LP-LuaCSharp\LP-LuaCSharp\obj\Debug\LP_LuaCSharp.VentanaPrincipal.resources
+C:\Users\Guillermo\Documents\Visual Studio 2013\Projects\LP-LuaCSharp\LP-LuaCSharp\obj\Debug\LP_LuaCSharp.Properties.Resources.resources
+C:\Users\Guillermo\Documents\Visual Studio 2013\Projects\LP-LuaCSharp\LP-LuaCSharp\obj\Debug\LP-LuaCSharp.csproj.GenerateResource.Cache
+C:\Users\Guillermo\Documents\Visual Studio 2013\Projects\LP-LuaCSharp\LP-LuaCSharp\obj\Debug\LP-LuaCSharp.exe
+C:\Users\Guillermo\Documents\Visual Studio 2013\Projects\LP-LuaCSharp\LP-LuaCSharp\obj\Debug\LP-LuaCSharp.pdb
