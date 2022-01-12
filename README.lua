@@ -72,4 +72,3 @@ end)
 form.Controls:Add(Italic)
 
 form:ShowDialog()
-
